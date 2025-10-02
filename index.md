@@ -2,6 +2,8 @@
 
 Welcome! This is the official **Support** site for the casual puzzle game **3T0**.
 
+📖 **[How to Play](/how-to-play)** – Learn the rules, controls, tips, and strategies.
+
 ---
 
 ## Frequently Asked Questions
